@@ -1,0 +1,6 @@
+eureka:
+  client:
+    register-with-eureka: true
+    eureka-server-port: 5671
+  instance:
+    hostname: localhost
